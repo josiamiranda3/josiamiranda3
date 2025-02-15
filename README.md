@@ -7,4 +7,5 @@
 🤝 Aberto a colaborações em projetos que envolvam boas práticas de desenvolvimento e inovação tecnológica.  
 ⚡ Acredito que o conhecimento e um processo continuo!  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiamiranda3&layout=compact)
+
