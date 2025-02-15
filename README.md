@@ -7,4 +7,4 @@
 🤝 Aberto a colaborações em projetos que envolvam boas práticas de desenvolvimento e inovação tecnológica.  
 ⚡ Acredito que o conhecimento e um processo continuo!  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?josiamiranda3=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
