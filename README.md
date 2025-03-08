@@ -12,6 +12,8 @@
 
 <p align="left">💻 Estudante de Tecnologia da Informação, focado em desenvolvimento Full-Stack.<br>🚀 Atualmente aprofundando conhecimentos em Front-End e o Back com enfase em Pyton e Banco de Dados.<br>📚 Sempre em busca de aprendizado contínuo, com interesse especial em Cloud Computing, Front, Back e Segurança da Informação.<br>🤝 Aberto a colaborações em projetos que envolvam boas práticas de desenvolvimento e inovação tecnológica.<br>⚡ Acredito que o conhecimento e um processo continuo!</p>
 
+Meu Portifolio: https://github.com/josiamiranda3/portifolio_josias
+
 ###
 
 <h2 align="left">Conhecimentos</h2>
