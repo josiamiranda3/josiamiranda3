@@ -1,4 +1,4 @@
-<h1 align="left">Olá sou Josias Miranda👋</h1>
+<h1 align="left">Olá sou Josia Mirande👋</h1>
 
 ###
 
