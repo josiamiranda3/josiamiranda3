@@ -115,7 +115,7 @@ I enjoy transforming ideas into functional applications and exploring how techno
 
 <p align="left">
   💼 LinkedIn: <a href="https://www.linkedin.com/in/josias-miranda-lima/">linkedin.com/in/josias-miranda</a>
-  💼 Portifolio: <a href="https://nv-prt.vercel.app/">linkedin.com/in/josias-miranda</a>
+  💼 Portifolio: <a href="https://nv-prt.vercel.app/">https://nv-prt.vercel.app/</a>
 </p>
 
 ###
