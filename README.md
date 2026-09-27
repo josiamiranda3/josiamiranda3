@@ -34,7 +34,7 @@ I enjoy transforming ideas into functional applications and exploring how techno
 <p align="left">
 🐍 <strong>Python</strong> — APIs, automation, data processing, and Back-End development.<br>
 📊 <strong>Data</strong> — Pandas, NumPy, SQL, data analysis, visualization, and Power BI.<br>
-🌐 <strong>Full-Stack Development</strong> — React,Angular JavaScript, HTML, CSS, REST APIs, and Back-End technologies.<br>
+🌐 <strong>Full-Stack Development</strong> — React,Angular, JavaScript, HTML, CSS, REST APIs, and Back-End technologies.<br>
 🤖 <strong>Artificial Intelligence</strong> — AI-powered applications, LLMs, automation, and experimentation.<br>
 ☁️ <strong>Cloud & Infrastructure</strong> — continuously expanding my knowledge of cloud technologies and deployment.<br>
 🔐 <strong>Cybersecurity</strong> — studying security concepts and best development practices.
