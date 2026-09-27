@@ -114,7 +114,7 @@ I enjoy transforming ideas into functional applications and exploring how techno
 ###
 
 <p align="left">
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/josias-miranda-99b824198/">linkedin.com/in/josias-miranda-99b824198</a>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/josias-miranda-99b824198/">linkedin.com/in/josias-miranda</a>
 </p>
 
 ###
