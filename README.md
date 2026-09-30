@@ -98,7 +98,7 @@ I enjoy transforming ideas into functional applications and exploring how techno
 
 ###
 
-<h2 align="left">GitHub Statistics</h2>
+<!-- <h2 align="left">GitHub Statistics</h2>
 
 ###
 
@@ -107,7 +107,7 @@ I enjoy transforming ideas into functional applications and exploring how techno
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josiamiranda3&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Most used languages" />
 </div>
 
-###
+### -->
 
 <h2 align="left">Let's Connect</h2>
 
